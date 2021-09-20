@@ -1,0 +1,20 @@
+.parent-box{
+    margin: 0 auto;
+    width: 1920px;
+    height: 1187px;
+    display: flex;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.span{
+    color: #3D37F1;
+}
+.title{
+    width: 195px;
+    height: 39px;
+    color: #4B647E;
+    font-size: 32px;
+    line-height: 28px;
+}
