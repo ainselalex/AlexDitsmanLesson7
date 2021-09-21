@@ -23,6 +23,7 @@
 .web-list{
     display: flex;
     justify-content: space-around;
+    
 }
 .web-navigation{
     width: 581px;
@@ -32,5 +33,21 @@
 .list{ 
     font-size: 20px;
     color: #3D37F1;
-    line-height: 80px;
+    line-height: 39px;
+}
+/* First section start */
+.first-section{
+    width: 1708px;
+    height: 595px;
+    margin: 0 auto;
+    display: flex;
+}
+.left-block{
+    width: 602px;
+    height: 509px;
+    background-color: #FFFFFF;
+}
+.right-block{
+    width: 801px;
+    height: 526.63px;
 }
