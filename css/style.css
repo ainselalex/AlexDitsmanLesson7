@@ -3,7 +3,7 @@
     margin-top: 67px;
 }
 .web-header{
-    width: 1501px;
+    width: 1920px;
     height: 39px;
     margin: 0 auto;
     display: flex;
@@ -26,6 +26,7 @@
     
 }
 .web-navigation{
+    margin-right: 287px;
     width: 581px;
     height: 24px;
     flex-direction: row;
@@ -37,7 +38,7 @@
 }
 /* First section start */
 .first-section{
-    width: 1721px;
+    width: 1920px;
     height: 700px;
     margin: 0 auto;
     display: flex;
@@ -45,8 +46,8 @@
 }
 .left-block{
     margin-top: 285px;
-    margin-left: auto;
-    margin-right: auto;
+    /* margin-left: auto;
+    margin-right: auto; */
     width: 602px;
     height: 509px;
     background-color: #FFFFFF;
