@@ -1,20 +1,36 @@
-.parent-box{
-    margin: 0 auto;
-    width: 1920px;
-    height: 1187px;
-    display: flex;
+.web-body{
+    width: 100%;
+    margin-top: 67px;
 }
-.header{
+.web-header{
+    width: 1501px;
+    height: 39px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
+    background-color: rgb(255, 255, 255);
 }
-.span{
-    color: #3D37F1;
-}
-.title{
+.web-title{
     width: 195px;
     height: 39px;
-    color: #4B647E;
     font-size: 32px;
     line-height: 28px;
+    color: #3D37F1;
+}
+.t1 {
+    color: #4B647E;
+}
+.web-list{
+    display: flex;
+    justify-content: space-around;
+}
+.web-navigation{
+    width: 581px;
+    height: 24px;
+    flex-direction: row;
+}
+.list{ 
+    font-size: 20px;
+    color: #3D37F1;
+    line-height: 80px;
 }
