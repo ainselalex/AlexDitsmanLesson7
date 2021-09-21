@@ -139,3 +139,18 @@
     line-height: 28px;
     margin-bottom: 67px;
 }
+.container-content{
+    display: flex;
+}
+.container{
+    width: 1169px;
+    height: 962px;
+    flex-wrap: wrap;
+    display: flex;
+}
+.first-block{
+    width: 370px;
+    height: 451px;
+    background-color: #FBBA77;
+
+}
