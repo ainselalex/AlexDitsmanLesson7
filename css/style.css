@@ -1,6 +1,6 @@
 .web-body{
     width: 100%;
-    height: 2620px;
+    height: 100%;
     margin-top: 67px;
 }
 .web-header{
@@ -150,14 +150,17 @@
 .four{
     background-color: #4386D2;
     margin-top: 60px;
+    margin-bottom: 60px;
 }
 .five {
     background-color: #A5A2F6;
     margin-top: 60px;
+    margin-bottom: 60px;
 }
 .six {
     background-color: #FF8088;
     margin-top: 60px;
+    margin-bottom: 60px;
 }
 .logoline{
     margin-top: 88px;
