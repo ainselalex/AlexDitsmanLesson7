@@ -1,10 +1,10 @@
 .web-body{
-    width: 100%;
+    max-width: 100%;
     height: 100%;
     margin-top: 67px;
 }
 .web-header{
-    width: 1920px;
+    max-width: 1920px;
     height: 39px;
     margin: 0 auto;
     display: flex;
@@ -37,9 +37,15 @@
     color: #3D37F1;
     line-height: 39px;
 }
+.burger{
+    display: none;
+    font-size: 50px;
+    margin: 0 auto;
+}
+
 /* First section start */
 .first-section{
-    width: 1920px;
+    max-width: 1920px;
     height: 700px;
     margin: 0 auto;
     display: flex;
@@ -49,20 +55,20 @@
     margin-top: 285px;
     /* margin-left: auto;
     margin-right: auto; */
-    width: 602px;
+    max-width: 602px;
     height: 509px;
     background-color: #FFFFFF;
     flex-direction: column;
     text-align: left;
 }
 .left-block-title{
-    width: 600px;
+    max-width: 600px;
     height: 203px;
     font-size: 78px;
     color: #534D4D;
 }
 .left-block-paragraph{
-    width: 602px;
+    max-width: 602px;
     height: 103px;
     font-size: 22px;
     line-height: 32px;
@@ -93,12 +99,12 @@
 
 .right-block{
     margin-top: 190px;
-    width: 801px;
+    max-width: 801px;
     height: 526.63px;
     
 }
 .right-block-image{
-    width: 801px;
+    max-width: 801px;
     height: 526.63px;
 }
 /* Section 2 start */
@@ -106,7 +112,7 @@
     margin-top: 250px;
     margin-left: auto;
     margin-right: auto;
-    width: 721px;
+    max-width: 721px;
     height: 220px;
     text-align: center;
 }
@@ -126,12 +132,12 @@
     margin-bottom: 67px;
 }
 .container-content{
-    width: 1169px;
+    max-width: 1169px;
     margin: 0 auto;
 
 }
 .line1-block{
-    width: 370px;
+    max-width: 370px;
     height: 451px;
     background-color: #FBBA77;
     text-align: center;
